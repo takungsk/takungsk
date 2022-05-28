@@ -8,6 +8,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takungsk&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takungsk&theme=default&utcOffset=9)
 
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takungsk)](https://github.com/anuraghazra/github-readme-stats)
+
+## Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=takungsk)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **takungsk/takungsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
