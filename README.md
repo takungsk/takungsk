@@ -1,4 +1,4 @@
-### Hi I'm Takuya Nagasaka 👋
+### Hi I'm Takuya.N 👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takungsk&theme=default)
 
